@@ -1,4 +1,5 @@
 //magic begins with curiocity
+//well it works always
 
 package bot;
 
