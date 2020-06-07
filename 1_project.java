@@ -1,3 +1,5 @@
+//magic begins with curiocity
+
 package bot;
 
 import java.util.Scanner;
