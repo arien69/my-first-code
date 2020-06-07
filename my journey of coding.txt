@@ -1,5 +1,5 @@
 	
 
-#this is my first try to learn coading, well i started with java, i hope a become good at coading!!!
+#this is my first try to learn coding, well i started with java, i hope a become good at coding!!!
 
 #this repositary is all about my codes that i wrote during my lerning phase.
